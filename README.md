@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdul Salam
 
-<!--
-**abdulsalamdev230-wq/abdulsalamdev230-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Flutter Developer | Dart | Firebase | Web Development
 
-Here are some ideas to get you started:
+I'm a passionate developer focused on building modern, clean, and user-friendly applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Flutter & Dart
+- Firebase
+- HTML & CSS
+- JavaScript
+- Git & GitHub
+
+## 📱 Projects
+
+- 🛒 E-Commerce Apps
+- 📱 Flutter Mobile Apps
+- 🌐 Web Projects
+- 🔥 Firebase Applications
+
+## 🌱 Currently Learning
+
+- Advanced Flutter
+- Firebase
+- Backend Development
+- Modern Web Technologies
+
+## 📫 Connect With Me
+
+- 💻 GitHub: AbdulSalamDev230
+- 💼 LinkedIn: Abdul Salam
+- 💼 Upwork: Abdul Salam
+
+---
+
+⭐ Thanks for visiting my profile!
